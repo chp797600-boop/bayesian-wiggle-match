@@ -1,0 +1,11 @@
+.venv/
+vendor/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+inputs/
+output/
+docs/wiggle_mcp_runtime_tmp/
+*.log

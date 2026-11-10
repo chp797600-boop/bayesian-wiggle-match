@@ -1,0 +1,5 @@
+{
+  "bundled_reference_catalog": "../../../server/data/catalog.json",
+  "project_measurement_archive_bundled": false,
+  "note": "Historical project-wide 2576-row archive is not included; use bundled curated references through MCP."
+}

@@ -1,0 +1,291 @@
+{
+  "version": "0.1.0",
+  "calendar": "astronomical integer years: 0=1 BCE",
+  "references": [
+    {
+      "reference_id": "ssm48",
+      "file": "ssm48.csv",
+      "sha256": "78cda9de936c0b6e9a8b4dbb8d806cf5c45126615cbab0e968c7cb5250661cf6",
+      "annual_points": 168,
+      "start_astro_year": -334,
+      "end_astro_year": -167,
+      "continuous": true,
+      "missing_year_ranges": [],
+      "physical_tree_aliases": [
+        "ssm-48"
+      ],
+      "region_context": "Alpine Europe; exact growth provenance see source",
+      "source_doi": "https://doi.org/10.1038/s41467-024-55757-y",
+      "calendar_basis": "EACCs ring-width crossdating; published supplementary dendrochronological assessment",
+      "selection": "Previously frozen one-measurement-per-year validation input; no new averaging",
+      "source_input": "output\\source_data\\design_validation_2026-11-03\\ssm-48_span168_step1.csv",
+      "source_input_sha256": "da014a09153350a15f3f97621cabd6321cd44c194f7d79721da569030d59c014",
+      "calendar_construction": "Published independently dated first measured ring + exact ring_offset; no target dates used",
+      "measurement_space": "conventional 14C BP and 1 sigma",
+      "reference_scope": "Single-tree measured segment; not a universal regional calibration curve",
+      "year_error_model": "Independent reference-year Gaussian errors; batch covariance and dendro-calendar uncertainty not modeled",
+      "calendar_evidence": "independent_dendrochronology_reported_in_source",
+      "scientific_reference_suitability": "requires_target_specific_review",
+      "is_demo": false
+    },
+    {
+      "reference_id": "vahu1",
+      "file": "vahu1.csv",
+      "sha256": "0437c9f33c85887d2743b1b0ac6848ca7094d1879153c7c6ce1cc1f8b98f8195",
+      "annual_points": 107,
+      "start_astro_year": -166,
+      "end_astro_year": -60,
+      "continuous": true,
+      "missing_year_ranges": [],
+      "physical_tree_aliases": [
+        "vahu-1"
+      ],
+      "region_context": "Alpine Europe; exact growth provenance see source",
+      "source_doi": "https://doi.org/10.1038/s41467-024-55757-y",
+      "calendar_basis": "EACCs ring-width crossdating; published supplementary dendrochronological assessment",
+      "selection": "Previously frozen one-measurement-per-year validation input; no new averaging",
+      "source_input": "output\\source_data\\design_validation_2026-11-03\\vahu-1_span107_step1.csv",
+      "source_input_sha256": "89e5b42c97359cef11152516da8744780acfadff1318d470b8eb47fa5f39ca3f",
+      "calendar_construction": "Published independently dated first measured ring + exact ring_offset; no target dates used",
+      "measurement_space": "conventional 14C BP and 1 sigma",
+      "reference_scope": "Single-tree measured segment; not a universal regional calibration curve",
+      "year_error_model": "Independent reference-year Gaussian errors; batch covariance and dendro-calendar uncertainty not modeled",
+      "calendar_evidence": "independent_dendrochronology_reported_in_source",
+      "scientific_reference_suitability": "requires_target_specific_review",
+      "is_demo": false
+    },
+    {
+      "reference_id": "ua1601",
+      "file": "ua1601.csv",
+      "sha256": "5a7fbca29a2c3e13121bb61305bddb9c2406eaf111ca06cefa20b8405a7cd3ec",
+      "annual_points": 51,
+      "start_astro_year": -7195,
+      "end_astro_year": -7145,
+      "continuous": true,
+      "missing_year_ranges": [],
+      "physical_tree_aliases": [
+        "ua1601"
+      ],
+      "region_context": "Swiss Alps",
+      "source_doi": "https://doi.org/10.1038/s41467-022-28804-9",
+      "calendar_basis": "Swiss larch independently crossdated to EACC; not the floating American bristlecone",
+      "selection": "Previously frozen one-measurement-per-year validation input; no new averaging",
+      "source_input": "output\\source_data\\design_validation_2026-11-03\\ua1601_span51_step1.csv",
+      "source_input_sha256": "890e2d672422bfb96e2ee3edfb717d098b95a4cefef91746feaedc890e5288c6",
+      "calendar_construction": "Published independently dated first measured ring + exact ring_offset; no target dates used",
+      "measurement_space": "conventional 14C BP and 1 sigma",
+      "reference_scope": "Single-tree measured segment; not a universal regional calibration curve",
+      "year_error_model": "Independent reference-year Gaussian errors; batch covariance and dendro-calendar uncertainty not modeled",
+      "calendar_evidence": "independent_dendrochronology_reported_in_source",
+      "scientific_reference_suitability": "requires_target_specific_review",
+      "is_demo": false
+    },
+    {
+      "reference_id": "hib26",
+      "file": "hib26.csv",
+      "sha256": "874616b0f42c11e50645b3b9eaf0b10bde7d961ce975f6238166bf0ad5507137",
+      "annual_points": 61,
+      "start_astro_year": -997,
+      "end_astro_year": -937,
+      "continuous": true,
+      "missing_year_ranges": [],
+      "physical_tree_aliases": [
+        "hib-26"
+      ],
+      "region_context": "Alpine Europe; exact growth provenance see source",
+      "source_doi": "https://doi.org/10.1038/s41467-024-55757-y",
+      "calendar_basis": "EACCs crossdating; published appendix table5 t=9.6/11.6",
+      "selection": "Previously frozen one-measurement-per-year validation input; no new averaging",
+      "source_input": "output\\source_data\\independent_evidence_2026-11-03\\Alpine_hib26_samples.csv",
+      "source_input_sha256": "06bcfed164926409aa4196444d58c30d04b806eadb2de8ad8bfe75090c001a19",
+      "calendar_construction": "Published independently dated first measured ring + exact ring_offset; no target dates used",
+      "measurement_space": "conventional 14C BP and 1 sigma",
+      "reference_scope": "Single-tree measured segment; not a universal regional calibration curve",
+      "year_error_model": "Independent reference-year Gaussian errors; batch covariance and dendro-calendar uncertainty not modeled",
+      "calendar_evidence": "independent_dendrochronology_reported_in_source",
+      "scientific_reference_suitability": "requires_target_specific_review",
+      "is_demo": false
+    },
+    {
+      "reference_id": "gp22",
+      "file": "gp22.csv",
+      "sha256": "c4e045f9346d0cb5baa9f2de3c6d92a9e053c504d2b05bb291bf9e028925ab61",
+      "annual_points": 87,
+      "start_astro_year": -936,
+      "end_astro_year": -850,
+      "continuous": true,
+      "missing_year_ranges": [],
+      "physical_tree_aliases": [
+        "gp-22"
+      ],
+      "region_context": "Alpine Europe; exact growth provenance see source",
+      "source_doi": "https://doi.org/10.1038/s41467-024-55757-y",
+      "calendar_basis": "EACCs crossdating; published appendix table5 t=8.5/7.4",
+      "selection": "Previously frozen one-measurement-per-year validation input; no new averaging",
+      "source_input": "output\\source_data\\independent_evidence_2026-11-03\\Alpine_gp22_samples.csv",
+      "source_input_sha256": "6acf8a349c15ec4656c88583827512fd29ce433953af5473468295a88a8eba32",
+      "calendar_construction": "Published independently dated first measured ring + exact ring_offset; no target dates used",
+      "measurement_space": "conventional 14C BP and 1 sigma",
+      "reference_scope": "Single-tree measured segment; not a universal regional calibration curve",
+      "year_error_model": "Independent reference-year Gaussian errors; batch covariance and dendro-calendar uncertainty not modeled",
+      "calendar_evidence": "independent_dendrochronology_reported_in_source",
+      "scientific_reference_suitability": "requires_target_specific_review",
+      "is_demo": false
+    },
+    {
+      "reference_id": "salisbury",
+      "file": "salisbury.csv",
+      "sha256": "5fb1f8596a163ab995ba80b2f0f245ee0939f4119161aae75324158d6852825e",
+      "annual_points": 12,
+      "start_astro_year": 1237,
+      "end_astro_year": 1327,
+      "continuous": false,
+      "missing_year_ranges": [
+        [
+          1238,
+          1241
+        ],
+        [
+          1243,
+          1246
+        ],
+        [
+          1248,
+          1251
+        ],
+        [
+          1253,
+          1256
+        ],
+        [
+          1258,
+          1261
+        ],
+        [
+          1263,
+          1266
+        ],
+        [
+          1268,
+          1276
+        ],
+        [
+          1278,
+          1286
+        ],
+        [
+          1288,
+          1301
+        ],
+        [
+          1303,
+          1320
+        ],
+        [
+          1322,
+          1326
+        ]
+      ],
+      "physical_tree_aliases": [
+        "Salisbury:scss12",
+        "scss12",
+        "salc19"
+      ],
+      "region_context": "Salisbury Cathedral, England; building location, not certified growth location",
+      "source_doi": "https://doi.org/10.1111/arcm.70088",
+      "calendar_basis": "Ring-width crossdating independently checked with stable oxygen isotope chronology",
+      "selection": "Previously frozen one-measurement-per-year validation input; no new averaging",
+      "source_input": "output\\source_data\\independent_evidence_2026-11-03\\Salisbury_scss12_samples.csv",
+      "source_input_sha256": "e57ee917ada3a6dfa05318feb75e526ff43b67ea6ff3d094bd5c12816c7693ea",
+      "calendar_construction": "Published independently dated first measured ring + exact ring_offset; no target dates used",
+      "measurement_space": "conventional 14C BP and 1 sigma",
+      "reference_scope": "Single-tree measured segment; not a universal regional calibration curve",
+      "year_error_model": "Independent reference-year Gaussian errors; batch covariance and dendro-calendar uncertainty not modeled",
+      "calendar_evidence": "independent_dendrochronology_reported_in_source",
+      "scientific_reference_suitability": "requires_target_specific_review",
+      "is_demo": false
+    },
+    {
+      "reference_id": "mickleton",
+      "file": "mickleton.csv",
+      "sha256": "0f7ae93a0ad01dc1dec857d49c617539f8022e882a50412166b2eb9544a605aa",
+      "annual_points": 8,
+      "start_astro_year": 1527,
+      "end_astro_year": 1684,
+      "continuous": false,
+      "missing_year_ranges": [
+        [
+          1528,
+          1559
+        ],
+        [
+          1561,
+          1586
+        ],
+        [
+          1588,
+          1604
+        ],
+        [
+          1606,
+          1621
+        ],
+        [
+          1623,
+          1639
+        ],
+        [
+          1641,
+          1659
+        ],
+        [
+          1661,
+          1683
+        ]
+      ],
+      "physical_tree_aliases": [
+        "Mickleton:lwm07r",
+        "lwm07r",
+        "lwm07",
+        "lmw07r",
+        "lmw07"
+      ],
+      "region_context": "North American oak imported into England; exact growth location not determined",
+      "source_doi": "https://doi.org/10.1016/j.nimb.2025.165919",
+      "calendar_basis": "Ring-width chronology; matching measurements rechecked against published table1",
+      "selection": "Previously frozen one-measurement-per-year validation input; no new averaging",
+      "source_input": "output\\source_data\\rule_prior_validation_2026-11-10\\Mickleton_lwm07r_samples.csv",
+      "source_input_sha256": "c4832c553878a5984b3ebe04145be63e787d286365a6fadaf4c0fe9cbd6cc33d",
+      "calendar_construction": "Published independently dated first measured ring + exact ring_offset; no target dates used",
+      "measurement_space": "conventional 14C BP and 1 sigma",
+      "reference_scope": "Single-tree measured segment; not a universal regional calibration curve",
+      "year_error_model": "Independent reference-year Gaussian errors; batch covariance and dendro-calendar uncertainty not modeled",
+      "calendar_evidence": "independent_dendrochronology_reported_in_source",
+      "scientific_reference_suitability": "requires_target_specific_review",
+      "is_demo": false
+    },
+    {
+      "reference_id": "demo_ce400",
+      "file": "../examples/example_reference.csv",
+      "sha256": "fbe6dfe79d31484780c9731d4f19ae915707523d2966aea707f694ab16dc57a0",
+      "annual_points": 111,
+      "start_astro_year": 350,
+      "end_astro_year": 460,
+      "continuous": true,
+      "missing_year_ranges": [],
+      "physical_tree_aliases": [],
+      "region_context": "Legacy known-age demonstration, source review required",
+      "source_doi": "see bundled legacy usage excerpt",
+      "calendar_basis": "Frozen skill demonstration reference",
+      "scientific_reference_suitability": "demonstration_only",
+      "is_demo": true
+    }
+  ],
+  "not_a_complete_calendar_search": true,
+  "default_scientific_acceptance": "not_automatically_evaluated",
+  "limitations": [
+    "Reliable published calendar labels do not guarantee target/reference compatibility",
+    "Unknown ancestry, shared laboratory errors and region offsets require external review",
+    "No pooling of different trees, no interpolated measurements, no automatic prior selection"
+  ]
+}
